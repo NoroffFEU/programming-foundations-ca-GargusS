@@ -36,7 +36,7 @@ To make the presentation as dynamic as possible, I needed to create HTML element
 
 Although the formatting of the object arrays is locked into specific HTML formatting, I believe it turned out well. Other data types such as strings and numbers can be added dynamically, generating a new row with respective spans for the property (key) and value.
 
-The primary interactive feature of this presentation is the ability to select an engine type from the dropdown list. Upon choosing an item, a corresponding sound is played back.
+The primary interactive feature of this presentation is the ability to select an fuel type from the dropdown list. Upon choosing an item, a corresponding sound is played back.
 
 ## Try it out :notes:
 
