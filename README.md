@@ -1,4 +1,4 @@
-# The Toyota Object Report
+# The Toyota Object Report :car:
 
 ##### A JavaScript Object by Geir Sønnesyn
 
@@ -44,6 +44,15 @@ The primary interactive feature of this presentation is the ability to select an
 
 ## References
 
-- Image by Johnny_px from Pixabay
-- Fav Icon by Iyikon on IconScout
-- Sound Effects from Pixabay
+<p>Image by <a
+        href="https://pixabay.com/users/johnny_px-21062476/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7113247">Johnny_px</a>
+      from <a
+        href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7113247">Pixabay</a>
+    </p>
+    <p>
+      <a href="https://iconscout.com/icons/electric" target="_blank">Free Electric Fav Icon</a> by <a
+        href="https://iconscout.com/contributors/iyikon">Iyikon</a> on <a href="https://iconscout.com">IconScout</a>
+    </p>
+    <p>Sound Effects from <a
+        href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6130">Pixabay</a>
+    </p>
