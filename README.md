@@ -1,5 +1,5 @@
-# The Toyota Object Report :car:
-
+# The Toyota Object Report
+:car:
 ##### A JavaScript Object by Geir Sønnesyn
 
 ---

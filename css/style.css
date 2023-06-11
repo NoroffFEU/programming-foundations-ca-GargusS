@@ -12,7 +12,8 @@ body {
 
 /* Container styles */
 .container {
-  max-width: max-content;
+  box-sizing: border-box;
+  max-width: 840px;
   margin: 0 auto;
   padding: 20px;
   background-color: #333;
