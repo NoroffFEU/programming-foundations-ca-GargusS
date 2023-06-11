@@ -20,7 +20,7 @@ let toyotaPrius2021 = {
   fuelEfficiencyCity: "4.36 L/100km",
   fuelEfficiencyHighway: "3.7 L/100km",
   seatingCapacity: 5,
-  cargoSpace : "774 liters",
+  cargoSpace: "774 liters",
   touchscreenDisplay: true,
   infotainmentSystem: "Toyota Entune",
   safetyFeatures: [
