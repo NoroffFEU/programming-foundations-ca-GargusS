@@ -56,3 +56,19 @@ The primary interactive feature of this presentation is the ability to select an
     <p>Sound Effects from <a
         href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6130">Pixabay</a>
     </p>
+
+1. `getElementById`: MDN web docs provides information about the `getElementById` method, which is used to access an HTML element with a specific ID from the document. You can find more details here: [getElementById - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
+
+2. `createElement`: MDN web docs explains the `createElement` method, which creates an HTML element specified by the tag name. You can find more details here: [createElement - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
+
+3. `className`: MDN web docs provides information about the `className` property, which represents the class attribute of an HTML element. You can find more details here: [className - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/className)
+
+4. `textContent`: MDN web docs explains the `textContent` property, which represents the text content of an HTML element. You can find more details here: [textContent - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
+
+5. `Array.isArray`: MDN web docs provides information about the `isArray` method, which checks whether a given value is an array. You can find more details here: [Array.isArray - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
+
+6. `addEventListener`: MDN web docs explains the `addEventListener` method, which attaches an event listener to an HTML element. You can find more details here: [addEventListener - MDN](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+
+7. `change` event: MDN web docs provides information about the `change` event, which is triggered when the value of an input element changes. You can find more details here: [change event - MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event)
+
+8. `dataset`: MDN web docs explains the `dataset` property, which provides access to the custom data attributes of an HTML element. You can find more details here: [dataset - MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
