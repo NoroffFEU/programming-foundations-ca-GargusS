@@ -1,17 +1,16 @@
-# The Toyota Object report
+# The Toyota Object Report
 
-##### A Javascript object by Geir Sønnesyn
+##### A JavaScript Object by Geir Sønnesyn
 
 ---
 
-## My initial thoughts
+## My Initial Thoughts
 
-Recently I purchased a new, used car and found it interesting to make this car my object for this assignment.
+Recently, I purchased a new used car and found it interesting to use this car as the object for this assignment.
 
-### The process
+### The Process
 
-Starting out with studying what goes into an object with regard to the syntax, what parts that it can consist of, and the requirements of the assignment.
-According to the CA delivery instructions, the object had to consist of :
+To start, I considered the syntax and parts that go into creating an object, as well as the requirements of the assignment. According to the CA delivery instructions, the object had to include:
 
 - String
 - Number
@@ -21,28 +20,30 @@ According to the CA delivery instructions, the object had to consist of :
 
 ---
 
-### To show that the CA criteria is met I have made a console.log in the .js file
+### Demonstrating Compliance with CA Criteria
 
-##### Open the index.HTML in the browser devtools console to view the output of the logging
+To show that the CA criteria is met, I have included console.log statements in the .js file. You can open the index.html file in the browser devtools console to view the output of the log.
 
-![image of console logging](/img/code01.png?raw=true "Console log examples")
+![Image of console logging](/img/code01.png?raw=true "Console log examples")
 
-## Structure and "usage"
+## Structure and Usage
 
-My main goal was to make a descriptive object. When it came to incorporate the function or Method rather, the ball just started rolling and I ended up with _( for me at least )_, a quite comprehensive presentation of the object. The complexity of this presentation may have gone a little south, and I lost myself for a couple of hours in there, but the structure is quite simple, it just _looks_ advanced. Using comments to point out the goal for the snippet, makes everything easier to navigate.
+My main goal was to create a descriptive object. As I started incorporating the functions (or methods), I found myself creating a comprehensive presentation of the object, which may appear complex at first glance. However, the structure itself is relatively simple, despite its appearance. The use of comments helps navigate through the code and understand the goals of each snippet.
 
-### Dynamic content building
+### Dynamic Content Building
 
-Knowing from previous projects that to make this presentation as dynamic as possible, I needed to make html elements with JavaScript. A dynamic code that took the given information in the object and treated it in a manner that makes sense in the HTML.
+To make the presentation as dynamic as possible, I needed to create HTML elements using JavaScript. The code dynamically takes the information from the object and presents it in a meaningful way within the HTML.
 
-Even though I have "locked" the formatting of the objects arrays to specific HTML formatting, I think this came out quite OK. The other entities such strings and number can be added dynamically and an new row with the respective spans for property (key) and value is generated.
+Although the formatting of the object arrays is locked into specific HTML formatting, I believe it turned out well. Other data types such as strings and numbers can be added dynamically, generating a new row with respective spans for the property (key) and value.
+
+The primary interactive feature of this presentation is the ability to select an engine type from the dropdown list. Upon choosing an item, a corresponding sound is played back.
+
+## Try it out :notes:
 
 ---
 
 ## References
 
-Image by Johnny_px from Pixabay
-
-Fav Icon by Iyikon on IconScout
-
-Sound Effects from Pixabay
+- Image by Johnny_px from Pixabay
+- Fav Icon by Iyikon on IconScout
+- Sound Effects from Pixabay
