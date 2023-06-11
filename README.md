@@ -32,7 +32,7 @@ My main goal was to create a descriptive object. As I started incorporating the 
 
 ### Dynamic Content Building
 
-To make the presentation as dynamic as possible, I needed to create HTML elements using JavaScript. The code dynamically takes the information from the object and presents it in a meaningful way within the HTML.
+I wanted to prioritize the JavaScript part and minimize the reliance on HTML. To achieve a dynamic presentation, I focused on creating HTML elements using JavaScript. The code intelligently extracts information from the object and presents it in a meaningful manner within the HTML structure. This is accomplished by generating rows and populating them with the corresponding key-value pairs from the object. By doing so, the presentation remains flexible and adaptable, allowing for easy modification and expansion of the content.
 
 Although the formatting of the object arrays is locked into specific HTML formatting, I believe it turned out well. Other data types such as strings and numbers can be added dynamically, generating a new row with respective spans for the property (key) and value.
 
