@@ -1,4 +1,136 @@
+/* Global styles */
+html {
+  background-color: #000;
+}
+
 body {
-	font-family: sans-serif;
-	padding: 1em 3em;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  word-spacing: 3px;
+}
+
+/* Container styles */
+.container {
+  box-sizing: border-box;
+  max-width: 840px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #333;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Heading styles */
+h1 {
+  text-align: center;
+  font-weight: 700;
+  color: #ccc;
+  margin-bottom: 20px;
+}
+
+/* Object container and image styles */
+#object-container,
+img {
+  box-sizing: border-box;
+  max-width: 100%;
+  text-transform: capitalize;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
+
+/* Property styles */
+div.property-row {
+  background-color: #e2e2e2;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.property-row {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 10px;
+}
+
+.property-name {
+  font-weight: 700;
+  flex-basis: 50%;
+  letter-spacing: 1.5px;
+  word-break: break-all;
+}
+
+.property-value {
+  text-align: right;
+  flex-basis: 50%;
+  margin-left: 10px;
+}
+
+/* Text styles */
+p,
+a {
+  color: #fff;
+  font-size: 16px;
+  word-spacing: 3px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #00ff00;
+}
+
+/* Dropdown styles */
+.dropdown {
+  width: 90%;
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #fff;
+  color: #333;
+}
+
+/* List item styles */
+li {
+  list-style: none;
+}
+
+/* Image filter */
+img {
+  filter: contrast(1.5);
+}
+
+/* Code styles */
+code,
+.code {
+  color: greenyellow;
+  text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+  font-family: "Courier New", monospace;
+  padding: 10px;
+  border-radius: 60px;
+}
+
+code:hover,
+.code:hover {
+  color: rgb(251, 195, 40);
+  text-shadow: 0 0 10px rgb(251, 195, 40), 0 0 20px rgb(251, 195, 40),
+    0 0 30px rgb(251, 195, 40);
+}
+
+.code-format {
+  margin: 30px auto;
+  max-width: 400px;
+  text-align: left;
+}
+/* small mobile view */
+@media screen and (max-width: 411px) {
+  .property-row {
+    display: block;
+  }
 }
