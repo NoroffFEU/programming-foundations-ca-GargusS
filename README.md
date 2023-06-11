@@ -1,5 +1,7 @@
 # The Toyota Object Report
+
 :car:
+
 ##### A JavaScript Object by Geir Sønnesyn
 
 ---
@@ -56,6 +58,8 @@ The primary interactive feature of this presentation is the ability to select an
     <p>Sound Effects from <a
         href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6130">Pixabay</a>
     </p>
+
+## Comprehensive reference list MDN Web docs
 
 1. `getElementById`: MDN web docs provides information about the `getElementById` method, which is used to access an HTML element with a specific ID from the document. You can find more details here: [getElementById - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 
